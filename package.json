@@ -1,0 +1,28 @@
+{
+  "name": "wong-tulus-ratauadus",
+  "version": "1.0.0",
+  "description": "mari berhitung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viniciusjr182/wong-tulus-ratauadus.git"
+  },
+  "keywords": [
+    "mari",
+    "berhitung"
+  ],
+  "author": "Anonim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusjr182/wong-tulus-ratauadus/issues"
+  },
+  "homepage": "https://github.com/viniciusjr182/wong-tulus-ratauadus#readme",
+  "dependencies": {
+    "kaum-malboro": "^1.0.0",
+    "kaum-surya": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
